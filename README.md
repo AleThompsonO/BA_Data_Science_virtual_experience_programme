@@ -1,15 +1,11 @@
 ![British Airways Logo](https://wheelchairtravel.org/wp-content/uploads/2017/03/british-airways-logo.jpg)
-# British-Airways---Forage---Data-Analytics
+# British Airways Data Science Virtual Experience
 
-This repository contains two tasks related to data analysis for British Airways.
+This repository contains my work for the [British Airways Data Science Virtual Experience](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data%20Science) on Forage.
 
-## Task 1
+In this virtual experience, I completed tasks that replicate the work of the British Airways Data Science team. I learned how to scrape customer review data from the web and build predictive models.
+Upon completion, I gained practical skills and experience from British Airways and deepened my understanding of data science in the context of the airline industry.
 
-The first task involves scraping review data from the web using Skytrax. Once the data is collected, it must be cleaned and prepared for analysis. Techniques such as topic modeling, sentiment analysis, or wordclouds can be used to gain insights into the content of the reviews. The results of the analysis should be presented in a PowerPoint slide.
-
-## Task 2
-
-The second task involves exploring and preparing a dataset to train a machine learning model that can predict whether a customer will make a booking. New features should be created and the performance of the model should be evaluated using cross-validation and appropriate evaluation metrics. The results of the analysis should be presented in a PowerPoint slide.
-
+I invite you to explore my work in this repository and learn more about the virtual experience on [Forage](https://www.theforage.com/virtual-internships/prototype/NjynCWzGSaWXQCxSX/Data%20Science).
 
 
