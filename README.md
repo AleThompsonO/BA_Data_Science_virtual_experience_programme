@@ -1,3 +1,8 @@
+![plot](newplot-_19_.jpg)
+![plot](newplot-_18_.jpg)
+![plot](wordclouds.jpg)
+![plot](newplot-_16_.jpg)
+
 ![British Airways Logo](https://wheelchairtravel.org/wp-content/uploads/2017/03/british-airways-logo.jpg)
 # British Airways Data Science Virtual Experience
 
